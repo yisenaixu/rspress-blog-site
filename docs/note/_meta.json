@@ -1,0 +1,24 @@
+[  
+   "index", 
+   {
+    "type": "dir",
+    "name": "TypeScript",
+    "label": "TypeScript",
+    "collapsible": true,
+    "collapsed": false
+   },
+   {
+    "type": "dir",
+    "name": "tailwindCss",
+    "label": "tailwindCss",
+    "collapsible": true,
+    "collapsed": false
+   },
+   {
+    "type": "dir",
+    "name": "http",
+    "label": "http",
+    "collapsible": true,
+    "collapsed": false
+   }
+]

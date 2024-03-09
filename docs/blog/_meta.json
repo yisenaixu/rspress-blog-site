@@ -1,0 +1,23 @@
+[  "index",
+   {
+    "type": "dir",
+    "name": "杂项",
+    "label": "杂项",
+    "collapsible": true,
+    "collapsed": false
+   },
+   {
+    "type": "dir",
+    "name": "网易云音乐",
+    "label": "网易云音乐",
+    "collapsible": true,
+    "collapsed": false
+   },
+   {
+    "type": "dir",
+    "name": "软件协会门户相关",
+    "label": "软件协会门户相关",
+    "collapsible": true,
+    "collapsed": false
+   }
+]
