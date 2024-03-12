@@ -20,5 +20,12 @@
     "label": "http",
     "collapsible": true,
     "collapsed": false
-   }
+   },
+   {
+      "type": "dir",
+      "name": "mobx",
+      "label": "mobx",
+      "collapsible": true,
+      "collapsed": false
+     }
 ]
