@@ -1,13 +1,6 @@
 [  "index",
    {
     "type": "dir",
-    "name": "杂项",
-    "label": "杂项",
-    "collapsible": true,
-    "collapsed": false
-   },
-   {
-    "type": "dir",
     "name": "网易云音乐",
     "label": "网易云音乐",
     "collapsible": true,

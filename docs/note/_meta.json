@@ -1,5 +1,28 @@
 [  
    "index", 
+   "浏览器运行机制", 
+   "浏览器缓存机制", 
+   {
+      "type": "dir",
+      "name": "HTTP",
+      "label": "HTTP",
+      "collapsible": true,
+      "collapsed": false
+     },
+     {
+      "type": "dir",
+      "name": "Git",
+      "label": "Git",
+      "collapsible": true,
+      "collapsed": false
+     },
+     {
+      "type": "dir",
+      "name": "React原理",
+      "label": "React原理",
+      "collapsible": true,
+      "collapsed": false
+     },
    {
     "type": "dir",
     "name": "TypeScript",
@@ -15,17 +38,17 @@
     "collapsed": false
    },
    {
-    "type": "dir",
-    "name": "http",
-    "label": "http",
-    "collapsible": true,
-    "collapsed": false
-   },
-   {
       "type": "dir",
       "name": "mobx",
       "label": "mobx",
       "collapsible": true,
       "collapsed": false
-     }
+   },
+   {
+      "type": "dir",
+      "name": "Redux",
+      "label": "Redux",
+      "collapsible": true,
+      "collapsed": false
+   }
 ]
