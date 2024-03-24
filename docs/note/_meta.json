@@ -4,15 +4,15 @@
    "浏览器缓存机制", 
    {
       "type": "dir",
-      "name": "HTTP",
-      "label": "HTTP",
+      "name": "http",
+      "label": "http",
       "collapsible": true,
       "collapsed": false
      },
      {
       "type": "dir",
-      "name": "Git",
-      "label": "Git",
+      "name": "git",
+      "label": "git",
       "collapsible": true,
       "collapsed": false
      },
