@@ -3,7 +3,7 @@
     "type": "dir",
     "name": "网易云音乐",
     "label": "网易云音乐",
-    "collapsible": false,
-    "collapsed": false
+    "collapsible": true,
+    "collapsed": true
    }
 ]

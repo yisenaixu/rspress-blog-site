@@ -6,49 +6,49 @@
       "type": "dir",
       "name": "http",
       "label": "http",
-      "collapsible": false,
-      "collapsed": false
+      "collapsible": true,
+      "collapsed": true
      },
      {
       "type": "dir",
       "name": "git",
       "label": "git",
-      "collapsible": false,
-      "collapsed": false
+      "collapsible": true,
+      "collapsed": true
      },
      {
       "type": "dir",
       "name": "React原理",
       "label": "React原理",
-      "collapsible": false,
-      "collapsed": false
+      "collapsible": true,
+      "collapsed": true
      },
    {
     "type": "dir",
     "name": "TypeScript",
     "label": "TypeScript",
-    "collapsible": false,
-    "collapsed": false
+    "collapsible": true,
+    "collapsed": true
    },
    {
     "type": "dir",
     "name": "tailwindCss",
     "label": "tailwindCss",
-    "collapsible": false,
-    "collapsed": false
+    "collapsible": true,
+    "collapsed": true
    },
    {
       "type": "dir",
       "name": "mobx",
       "label": "mobx",
-      "collapsible": false,
-      "collapsed": false
+      "collapsible": true,
+      "collapsed": true
    },
    {
       "type": "dir",
       "name": "Redux",
       "label": "Redux",
-      "collapsible": false,
-      "collapsed": false
+      "collapsible": true,
+      "collapsed": true
    }
 ]
