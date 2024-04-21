@@ -54,5 +54,12 @@
       "label": "Redux",
       "collapsible": true,
       "collapsed": true
+   },
+   {
+      "type": "dir",
+      "name": "设计模式",
+      "label": "设计模式",
+      "collapsible": true,
+      "collapsed": true
    }
 ]
