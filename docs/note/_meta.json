@@ -61,5 +61,12 @@
       "label": "设计模式",
       "collapsible": true,
       "collapsed": true
+   },
+   {
+      "type": "dir",
+      "name": "JavaScript现代",
+      "label": "JavaScript现代",
+      "collapsible": true,
+      "collapsed": true
    }
 ]
